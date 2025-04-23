@@ -3,9 +3,9 @@
 I'm passionate about collaborating with developers to build innovative software solutions that solve critical problems.  I have over two decades of experience as a developer, cloud architect, cybersecurity analyst, and agile project manager.  When I'm not working, I love traveling with my wife and kids.  My goal is to visit all 50 states one day, but I have a long way to go before reaching that milestone.
 
 ## About Me
-- :office: &nbsp;I'm currently working at **[Noblis](https://www.noblis.org)**
-- 🔭 I’m currently working on [FedRAMP Automation](https://github.com/Rene2mt/fedramp-automation)
+- :office: &nbsp;I'm currently working at **[stackArmor](https://www.stackArmor.com)**
 - 🌱 I’m currently learning about [the capabilities of AI and its applications in every day business](https://certificates.emeritus.org/12a1457b-3e43-4119-b9b8-8040b8f11a73#acc.uhCt8Mra)
+- 🔭 I previously worked on [FedRAMP Automation](https://github.com/Rene2mt/fedramp-automation)
 - 👯 I’m looking to collaborate on all things [FedRAMP](https://fedramp.gov), [OSCAL](https://github.com/usnistgov/OSCAL), and cloud computing related.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/rene-tshiteya-pmp-6331607/)
 - ⚡ Fun fact: Je parle français
